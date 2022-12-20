@@ -6,11 +6,11 @@ Historia de Julia ...
 https://julialang.org/
 
 
-### Check Instalación
+### Check
 `versioninfo()`
 
 
-### Vinculación 
+### JupyterNotebook
 `using Pkg`
 `Pkg.add("IJulia")`
 

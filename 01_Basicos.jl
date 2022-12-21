@@ -96,8 +96,8 @@ for color in [:red, :blue]
 end
 
 a = 3
-print("El valor de 'a' es: ", a)
-print("El valor de 'a' es: $a") # Concatenar
+println("El valor de 'a' es: ", a)
+println("El valor de 'a' es: $a") # Concatenar
 
 a, b = 15, 8
 print("El valor de 'a' es $a y de 'b' es $b")

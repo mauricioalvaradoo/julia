@@ -9,6 +9,7 @@ typeof(list1)
 
 # Añadir
 append!(list1, 6)
+push!(list1, 7)
 
 # Referenciar, inicia en 1
 list1[1]
@@ -42,6 +43,12 @@ dict1 = Dict(
     "k3" => "R"
 )
 
+dict2 = Dict(
+    "key1" => "Julia",
+    "key2" => "Python",
+    "key3" => "SQL"
+)
+
 # Keys and values
 keys(dict1)
 values(dict1)
@@ -71,7 +78,8 @@ dict2 = Dict(
     "u3" => "UL"
 )
 
-merge!(dict1, dict2) # Se guarda en el primer diccionario
+merge!(dict1, dict2) # Se guarda en el primer diccionario.
+# Sobreescribe los keys de 'dict1' por los de 'dict2'
 @show dict1
 @show dict2
 

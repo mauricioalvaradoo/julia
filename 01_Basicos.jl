@@ -16,12 +16,14 @@ rand(3)
 
 
 ### Variables ==================================
-a = 2
+a = 2; # Defino entero pero sin correr, gracias al ';'
 b = 3.
 c = "Hello World"
 d = [1, 2, 3]
+e = 1 + 3*im
+f = 'a'
 
-a, b = 10, 5
+a, b = 10, 5.
 
 a == b
 a != b
@@ -32,9 +34,15 @@ typeof(a)
 typeof(b)
 typeof(c)
 typeof(d)
+typeof(e) # Complex{Int64}
+typeof(f) # Character vs. String
 
 convert(Int64, 6.0)
+Complex{Float64}(e) # Complex{Float64}
 
+# Check tipo
+isa(2., Int64)
+isa(2., Float64)
 
 
 ### Strings ===================================
@@ -102,3 +110,7 @@ println("El valor de 'a' es: $a") # Concatenar
 a, b = 15, 8
 print("El valor de 'a' es $a y de 'b' es $b")
 
+
+
+# Help! =======================================
+# Se debe colocar el simbolo de '?' en el terminal y luego la función a consultar

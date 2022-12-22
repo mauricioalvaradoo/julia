@@ -49,6 +49,12 @@ else
     print("X no es un número")
 end
 
+# Condicional con Readline()
+print("Dime tu nota: ")
+x = readline()
+x = parse(Int64, x)
+(x>10) ? "Aprobaste" : "Desaprobaste"
+
 
 
 ### Iteracion (for) ========================================

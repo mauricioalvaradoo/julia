@@ -3,7 +3,7 @@ Julia es un lenguaje de programación enfocado en Data Science y el análisis.
 Fue creado por el Instituto de Tecnología de Massachusetts (MIT) en el 2010.
 
 <p align="center">
-  <img src="figures/julia_logo.png" width="200">
+  <img src="figures/julia_logo.png" width="100">
 </p>
 
 ## Instalación

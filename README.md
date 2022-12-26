@@ -12,6 +12,24 @@ Se realiza mediante este proceso:
 2. Descargar una IDE. Puede ser VSCode https://code.visualstudio.com/ o Anaconda https://www.anaconda.com/products/distribution. En caso que se desee manipular Julia en JupyterNotebook, se debe installar `IJulia` mediante los siguientes comandos: `using Pkg`, `Pkg.add("IJulia")`.
 3. Revisar que la versión de Julia corresponda a la instalada mediante `versioninfo()`
 
+# Ruta de aprendizaje
+Como todo lenguaje de programación se puede estudiar Julia mediante un temario de conceptos básicos a intermedio:
+1. Conceptos básicos: _sintaxis, variables y operaciones_
+2. Declaraciones: _bloque, condicional e iteraciones_
+3. Estructuras: _listas, diccionarios y tuplas_
+4. Arreglos: _arrays y matrices_
+5. Funciones
+6. Clases y objetos
+7. Básicos de Data
+8. Manipulaciones de la Data
+9. Microeconometría: _modelo de regresión lineal, Logit y Probit y datos panel_ 
+10. Macroeconometría: _series de tiempo estacionarias, no estacionarias, multivariado, filtros y volatilidad_
+11. ML Regresiones
+12. ML Clasificación
+13. ML Clustering
+14. DL Redes Neuronales
+15. NLP
+
 ## Comandos en terminal:
 `Ctrl+Ñ` -> Oculta/Visualizar terminal
 `Ctrl+L` -> Limpiar terminal

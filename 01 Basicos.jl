@@ -12,6 +12,8 @@
 6//3 # Proporcionalidad
 
 rand(3)
+log(5)     # Por default es natural log: base e
+log(2, 5)  # Cambiando la base a 2
 
 
 

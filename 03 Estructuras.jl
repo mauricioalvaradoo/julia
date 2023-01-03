@@ -5,11 +5,16 @@
 # Son mutables
 list1 = [1, 2, 3, 4, 5]
 list2 = [10, 20, 30, 40, 50, 60, 70, 80, 90]
+list3 = [1, 3, 5, 2, 4]
 typeof(list1)
 
 # Añadir
 append!(list1, 6)
 push!(list1, 7)
+
+# Ordenar
+sort(list3)
+sort!(list3)
 
 # Referenciar, inicia en 1
 list1[1]

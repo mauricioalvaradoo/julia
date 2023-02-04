@@ -35,5 +35,11 @@ Como todo lenguaje de programación se puede estudiar Julia mediante un temario 
 `Ctrl+L` -> Limpiar terminal
 `?+función` -> Consultar documentación
 
-## Tutoriales
-* 4 horas: https://www.youtube.com/watch?v=lwj-1mclq0U
+## Libros 
+* Kalicharan, N. (2021). _Julia - Bit a Bit-. Springer. https://link.springer.com/book/10.1007/978-3-030-73936-2
+* Kamiński, B. (2022). Julia for Data Analysis. Manning Publications. https://www.manning.com/books/julia-for-data-analysis
+* Lauwens, B., & Downey, A. (2019). _Think Julia: How to Think Like a Computer Scientist_. O'Reilly Media. https://www.oreilly.com/library/view/think-julia/9781492045021/
+* Nussbaumer, C. (2015). Storytelling with Data. Wiley. https://www.wiley.com/en-us/Storytelling+with+Data%3A+A+Data+Visualization+Guide+for+Business+Professionals-p-9781119002253
+
+## Videos
+* Agarrwal, A. (2019). _Julia Data Science Basic Full Course_: https://www.youtube.com/watch?v=lwj-1mclq0U

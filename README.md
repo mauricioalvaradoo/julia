@@ -10,9 +10,11 @@ Fue creado por el Instituto de Tecnología de Massachusetts (MIT) en el 2010.
 Se realiza mediante este proceso:
 1. Descargar Julia: https://julialang.org/
 2. Descargar una IDE. Puede ser VSCode https://code.visualstudio.com/ o Anaconda https://www.anaconda.com/products/distribution.
-      * En caso que se desee manipular Julia en JupyterNotebook, se debe installar `IJulia` mediante los siguientes comandos:
-      * using Pkg
-      * Pkg.add("IJulia")
+     * En caso que se desee manipular Julia en JupyterNotebook, se debe installar `IJulia` mediante los siguientes comandos:
+      ```
+      using Pkg
+      Pkg.add("IJulia")
+      ```
 4. Revisar que la versión de Julia corresponda a la instalada mediante `versioninfo()`
 
 ## Ruta de aprendizaje

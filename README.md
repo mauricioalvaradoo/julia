@@ -14,11 +14,11 @@ Se realiza mediante este proceso:
 
 ## Ruta de aprendizaje
 Como todo lenguaje de programación se puede estudiar Julia mediante un temario de conceptos básicos a intermedio:
-1. Conceptos básicos: _sintaxis, variables y operaciones_
-2. Declaraciones: _bloque, condicional e iteraciones_
-3. Estructuras: _listas, diccionarios y tuplas_
-4. Arreglos: _arrays y matrices_
-5. Funciones
+1. [Conceptos básicos: _sintaxis, variables y operaciones_](https://github.com/mauricioalvaradoo/julia/blob/main/01%20Basicos.jl)
+2. [Declaraciones: _bloque, condicional e iteraciones_](https://github.com/mauricioalvaradoo/julia/blob/main/02%20Declaraciones.jl)
+3. [Estructuras: _listas, diccionarios y tuplas_](https://github.com/mauricioalvaradoo/julia/blob/main/03%20Estructuras.jl)
+4. [Arreglos: _arrays y matrices_](https://github.com/mauricioalvaradoo/julia/blob/main/04%20Arreglos.jl)
+5. [Funciones](https://github.com/mauricioalvaradoo/julia/blob/main/05%20Funciones.jl)
 6. Clases y objetos
 7. Básicos de Data
 8. Manipulaciones de la Data

@@ -37,9 +37,9 @@ Como todo lenguaje de programación se puede estudiar Julia mediante un temario 
 15. NLP
 
 ## Comandos en terminal:
-`Ctrl+Ñ` -> Oculta/Visualizar terminal
-`Ctrl+L` -> Limpiar terminal
-`?+función` -> Consultar documentación
+* Oculta/Visualizar terminal: `Ctrl+Ñ`
+* Limpiar terminal: `Ctrl+L`
+* Consultar documentación: `?+función`
 
 ## Libros 
 * Kalicharan, N. (2021). [_Julia - Bit a Bit-_](https://link.springer.com/book/10.1007/978-3-030-73936-2). Springer.

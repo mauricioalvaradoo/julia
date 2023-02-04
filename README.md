@@ -34,7 +34,7 @@ Como todo lenguaje de programación se puede estudiar Julia mediante un temario 
 12. Machine Learning: Clasificación
 13. Machine Learning: Clustering
 14. Deep Learning: Redes Neuronales
-15. Natural Language Processing (NLP)
+15. Natural Language Processing
 
 ## Comandos en terminal:
 * Oculta/Visualizar terminal: `Ctrl+Ñ`

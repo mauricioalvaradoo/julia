@@ -30,11 +30,11 @@ Como todo lenguaje de programación se puede estudiar Julia mediante un temario 
 8. Manipulaciones de la Data
 9. Microeconometría: _modelo de regresión lineal, Logit y Probit, y datos panel_ 
 10. Macroeconometría: _series de tiempo estacionarias, no estacionarias, multivariado, filtros y volatilidad_
-11. ML Regresiones
-12. ML Clasificación
-13. ML Clustering
-14. DL Redes Neuronales
-15. NLP
+11. Machine Learning: Regresiones
+12. Machine Learning: Clasificación
+13. Machine Learning: Clustering
+14. Deep Learning: Redes Neuronales
+15. Natural Language Processing (NLP)
 
 ## Comandos en terminal:
 * Oculta/Visualizar terminal: `Ctrl+Ñ`

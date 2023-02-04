@@ -41,6 +41,9 @@ Como todo lenguaje de programación se puede estudiar Julia mediante un temario 
 * Limpiar terminal: `Ctrl+L`
 * Consultar documentación: `?+función`
 
+## Cheetsheets
+Existen algunos [resúmenes](https://github.com/mauricioalvaradoo/julia/tree/main/cheetsheets) teóricos que se pueden consultar.
+
 ## Libros 
 * Kalicharan, N. (2021). [_Julia - Bit a Bit-_](https://link.springer.com/book/10.1007/978-3-030-73936-2). Springer.
 * Kamiński, B. (2022). [_Julia for Data Analysis_](https://www.manning.com/books/julia-for-data-analysis). Manning Publications.

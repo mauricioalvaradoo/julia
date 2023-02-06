@@ -51,4 +51,4 @@ Existen algunos [resúmenes](https://github.com/mauricioalvaradoo/julia/tree/mai
 * Nussbaumer, C. (2015). [_Storytelling with Data_](https://www.wiley.com/en-us/Storytelling+with+Data%3A+A+Data+Visualization+Guide+for+Business+Professionals-p-9781119002253). Wiley.
 
 ## Videos
-* Agarrwal, A. (2019). [_Julia Data Science Basic Full Course_](https://www.youtube.com/watch?v=lwj-1mclq0U)
+* Agarrwal, A. (2019). [_Julia Data Science Basic Full Course_](https://www.youtube.com/watch?v=lwj-1mclq0U).
